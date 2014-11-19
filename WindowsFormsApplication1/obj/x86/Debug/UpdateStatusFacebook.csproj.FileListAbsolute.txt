@@ -1,0 +1,85 @@
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Albums.resources
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Comment.resources
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Dangtin.resources
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.LogInWithConfirmPermissions.resources
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.VideoFB.resources
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Facebook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\UpdateStatusFacebook.csprojResolveAssemblyReference.cache
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Albums.resources
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Comment.resources
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Dangtin.resources
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.LogInWithConfirmPermissions.resources
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.VideoFB.resources
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\UpdateStatusFacebook.csproj.GenerateResource.Cache
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\FaceBook\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.dll
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.Server.dll
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Json.dll
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.xml
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.Server.xml
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Json.xml
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.pdb
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.xml
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Albums.resources
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Comment.resources
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Dangtin.resources
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.LogInWithConfirmPermissions.resources
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.VideoFB.resources
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\UpdateStatusFacebook.csproj.GenerateResource.Cache
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\Projects\MegaTech.Corp\CSharp\Docs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.dll
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.Server.dll
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Json.dll
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\Facebook.dll
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.xml
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Facebook.Server.xml
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\ComputerBeacon.Json.xml
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\Facebook.xml
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.pdb
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.xml
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\UpdateStatusFacebook.csprojResolveAssemblyReference.cache
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Albums.resources
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Comment.resources
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.Dangtin.resources
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.LogInWithConfirmPermissions.resources
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\FacebookTest.VideoFB.resources
+E:\HTTP Request Meetme.Com\Facebook Thien\27_6\WindowsFormsApplication1\obj\x86\Debug\UpdateStatusFacebook.csproj.GenerateResource.Cache

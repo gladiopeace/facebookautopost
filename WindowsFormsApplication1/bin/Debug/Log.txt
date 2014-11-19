@@ -1,0 +1,1 @@
+setInfor() Cannot perform runtime binding on a null reference
